@@ -1,2 +1,11 @@
 # configs-DRVKHFPVF722.md
 Betaflight target definitions
+# DRVKHFPVF722
+
+MCU: STM32F722RET6
+
+Gyro: ICM42688P
+
+OSD: MAX7456
+
+Flash: W25Q128FV
